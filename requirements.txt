@@ -1,0 +1,4 @@
+pywin32>=306
+requests>=2.31.0
+pandas>=2.0.3
+yara-python>=4.2.3
